@@ -12,7 +12,7 @@ This is a TypeScript project that implements a simple shop system where users ca
 - Calculate the total price of items in a user's cart.
 - Manage your inventory with quantities of items.
 - Uses MongoDB for data storage and retrieval.
-- Use a React frontend to deploy the shop system.
+- Uses a React frontend to deploy the shop system.
 
 ## Prerequisites
 
