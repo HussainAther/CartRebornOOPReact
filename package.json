@@ -1,0 +1,20 @@
+{
+  "name": "shop-system",
+  "version": "1.0.0",
+  "description": "A shop system implemented in TypeScript",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node dist/main.js",
+    "build": "tsc"
+  },
+  "author": "syed Hussain Ather",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "mongodb": "^4.16.0",
+    "uuid": "^8.3.2"
+  }
+}
