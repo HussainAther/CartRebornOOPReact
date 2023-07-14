@@ -25,19 +25,19 @@ Before running the shop system, make sure you have the following installed:
 
 1. Clone the repository:
 
-   ```bash
-  git clone https://github.com/HussainAther/CartRebornOOPReact
+   ```
+   git clone https://github.com/HussainAther/CartRebornOOPReact
    ```
 
 2. Navigate to the project directory:
 
-    ```bash
+    ```
     cd shop-system
     ```
 
 3. Install dependencies:
 
-    ```bash
+    ```
     npm install
     ```
 
@@ -48,19 +48,19 @@ Before running the shop system, make sure you have the following installed:
 
 5. Update the MongoDB configuration:
 
-Open the `database.ts` file in the src directory.
-Replace the MongoDB connection URL, database name, and collection names with your MongoDB setup.
-Save the changes to the database.ts file.
+* Open the `database.ts` file in the src directory.
+* Replace the MongoDB connection URL, database name, and collection names with your MongoDB setup.
+* Save the changes to the database.ts file.
 
 6. Build the TypeScript code:
 
-    ```bash
+    ```
     npm run build
     ```
 
 7. Run the program:
 
-    ```bash
+    ```
     npm start
     ```
 
@@ -71,7 +71,7 @@ To deploy the React frontend of the shop system, follow these steps:
 
 1. Build the React app:
 
-    ```bash
+    ```
     npm run build
     ```
 
